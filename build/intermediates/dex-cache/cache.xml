@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_88eda04ab52170327aabdfdd292909499beed35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_9589a0786ecc282abc910ead7611be89607c22ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_f0a5af8718e90f68eeb55c5ccba117e2a66ebaaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_91e8505a547afd42b2f439ff58f8f2d1893b8117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_93d636c942b4e6c604a7cc001a498eaa30a04052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_7df83ba0573b9fb1d9affbe38300089a4bd32a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_a8ca34f42baaa09acea5042bfea2dbbcb16d9b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ccaa42f749be07fc76b528a7e9686b54e0f0a387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_da190d64891e7b6717fa0f9d7664e5586c183d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_8cbc9a71d37c070d3f30007e7dede49b3129bb72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1a9a31044713540f8399266fc160620f06413448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sajin S\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_ef59f9751a23c9ba6f101ada98fdab40fce17f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_244a0918f659f1a67cab29d1a25972cc88e51ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_b21e5a2890b23b982790137e2ebac22c4b49e4ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="G:\AndroidStudioProjects\NinerSense_new-dev2310\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ed84961c1dbfc9eda4a3e2b3d65f9cf4ef54afc6.jar" />
+    </item>
+
+</items>
